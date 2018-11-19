@@ -1,4 +1,4 @@
-// TODO: optimize operation checking?
+// TODO: optimize?
 // Function that returns a random integer from min to max (inclusive).
 function randomInteger(min, max) {
   // Using Math.floor along with a multiplied value of Math.random to generate a random integer.
